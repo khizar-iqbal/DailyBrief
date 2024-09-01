@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Ex-footy player’s ‘fire’ threat to wife",
+            "description": "The ex-wife of a former footballer says she feared she would be burned alive as a result of his controlling and abusive behaviour.",
+            "url": "https://www.news.com.au/sport/exfooty-star-threatened-to-set-his-wife-on-fire/news-story/80942eb27b7b8a86dd5864c3f11444a1",
+            "urlToImage": "https://content.api.news/v3/images/bin/d3e65c82f9fa4429a864f0592636cfd5",
+            "publishedAt": "2024-08-27T09:16:00Z",
+            "content": "The ex-wife of a former footballer says she feared she would be burned alive as a result of his controlling and abusive behaviour.\r\nJulia Hodge was married to former Norwood player Mathew Vidic but t… [+3250 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Phoebe Schecter: NFL broadcaster turned flag football player",
+            "description": "Phoebe Schecter had watched two Super Bowls and found them both \"boring\" before a move to the UK sparked an unlikely NFL career",
+            "url": "http://www.bbc.co.uk/sport/american-football/articles/c5yk93jkj4xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/697c/live/1b645060-63ee-11ef-b43e-6916dcba5cbf.jpg",
+            "publishedAt": "2024-08-27T08:22:16.99482Z",
+            "content": "More than a decade after seeing that social media ad, Schecter is one of the UK's biggest American football personalities.\r\nBut don't let her accent fool you. Her love of American football blossomed … [+3409 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Football latest: Transfer updates involving Nketiah, McTominay and more",
+            "description": "All the latest football news and transfer updates with Friday's deadline looming as Nketiah, McTominay and Zouma all close in on new clubs.",
+            "url": "http://www.bbc.co.uk/sport/football/live/c24p6r7znqyt",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-08-27T06:07:15.0250251Z",
+            "content": "Welcome back after Monday's sad news that former England manager Sven-Goran Eriksson died at the age of 76.\r\nWe will bring you more reaction to that story.\r\nAnd with the season now well under way and… [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "James Ridge",
+            "title": "'Just 18 months ago, I was wondering whether I would ever play football again' - Manuel Neuer reflects on a remarkable career during emotional Germany retirement announcement",
+            "description": "Manuel Neuer has announced his departure from the national team",
+            "url": "https://www.fourfourtwo.com/news/just-18-months-ago-i-was-wondering-whether-i-would-ever-play-football-again-manuel-neuer-reflects-on-a-remarkable-career-during-emotional-international-retirement-announcement",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ko2RSvzwasZ3izYEefxHyC-1200-80.jpg",
+            "publishedAt": "2024-08-27T05:00:00Z",
+            "content": "Bayern Munich goalkeeper Manuel Neuer will undoubtedly go down as one of football's greatest-ever goalkeepers as he begins to wind down a spectacular career.\r\nThe World Cup and Champions League winne… [+3848 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Fernando Cervantes Jr.",
+            "title": "West Virginia middle school student dies after sustaining injury during football practice",
+            "description": "Cohen Craddock, a 14-year-old West Virginia middle school student died over the weekend after sustaining injuries during a Friday football practice.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/08/26/west-virginia-eighth-grader-cohen-craddock-football-death/74960312007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/08/27/USAT/74960728007-149686067.jpg?crop=4781,2689,x0,y128&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2024-08-27T00:52:15+00:00",
+            "content": "A West Virginia community is mourning the loss of a middle school athlete who died Saturday, one day after he was injured in football practice.\r\nCohen Craddock, an eighth-grade student at Madison Mid… [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Max Olson, Eli Lederman",
+            "title": "Top 100 newcomers in college football this season - ESPN",
+            "description": "After a dizzying offseason, we sort out the transfers and freshmen who will make the biggest impact.",
+            "url": "https://www.espn.com/college-football/insider/story/_/id/40989017/top-100-college-football-newcomers-transfers-freshmen-2024",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0825%2Fr1377616_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-08-26T11:00:00Z",
+            "content": "Aug 26, 2024, 07:00 AM ET\r\nIn this era of transfer portal transactions and constant roster turnover, attempting to keep up with who went where can be a dizzying exercise for even the most devoted col… [+48959 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melissa Alonso, Amy Simonson",
+            "title": "Alabama teen dies after head injury during high school football game",
+            "description": "An Alabama community is in mourning following the death of a high school quarterback who suffered a brain injury during a Selma school’s home opener Friday night, according to statements.",
+            "url": "https://www.cnn.com/2024/08/25/sport/alabama-high-school-football-player-dies-spt/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/caden-tellier.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-08-26T02:29:58Z",
+            "content": "An Alabama community is in mourning following the death of a high school quarterback who suffered a brain injury during the schools season opener Friday night, according to statements from school off… [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
