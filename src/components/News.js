@@ -17,7 +17,7 @@ export class News extends Component {
   };
 
   constructor(props) {
-    super(props); // Pass props to constructor
+    super(props);
     this.state = {
       articles: [],
       loading: true,
@@ -28,6 +28,10 @@ export class News extends Component {
 
   componentDidMount() {
     this.fetchNews();
+  }
+
+  capitalizeFirstLetter = (string) => {
+    return string.charAt(0).toUpperCase() + string.slice(1)
   }
 
   fetchNews = async () => {
@@ -44,6 +48,7 @@ export class News extends Component {
         totalResults: parsedData.totalResults,
         loading: false,
       });
+      document.title = `${this.capitalizeFirstLetter(this.props.category)} - DailyBrief`
     } catch (error) {
       console.log("Failed to fetch News Data: ", error);
       this.setState({
@@ -77,7 +82,7 @@ export class News extends Component {
     return (
       <div className="container my-3">
         <h1 className="text-center" style={{ margin: "40px" }}>
-          Top News Today
+        {this.capitalizeFirstLetter(this.props.category)} Highlights
         </h1>
         {this.state.loading && <Spinner />}
         <div className="row">
@@ -94,6 +99,9 @@ export class News extends Component {
                   }
                   imageUrl={element.urlToImage}
                   newsUrl={element.url}
+                  author={element.author}
+                  publishedAt={element.publishedAt}
+                  source={element.source.name}
                 />
               </div>
             ))}
